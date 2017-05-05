@@ -279,7 +279,7 @@ function initscrolls(){
           height: 'auto',
           position: 'right',
           size: "5px",
-          color: '#98a6ad',
+          color: 'rgb(78, 68, 68)',
           wheelStep: 5
       });
   }
